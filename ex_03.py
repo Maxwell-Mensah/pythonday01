@@ -1,0 +1,1 @@
+my_array=['Glory', 42, 'to', 42.42, 'Geckos']
